@@ -1,7 +1,7 @@
 # Collection of DevOps Resources 
 
 ## Core:
-* [Microsoft's DevOps Definition - What Is DevOps](hhttps://docs.microsoft.com/en-us/devops/what-is-devops)
+* [Microsoft's DevOps Definition - What Is DevOps](https://docs.microsoft.com/en-us/devops/what-is-devops)
 * [The Three Ways](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)
 * [The Five Ideals](https://itrevolution.com/announcing-the-unicorn-project-and-availability-of-first-excerpt-and-the-five-ideals/)
 
